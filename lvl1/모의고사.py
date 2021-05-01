@@ -1,4 +1,5 @@
 # There are three students who has their own specific answer pattern.
+# The pattern was provided in advance.
 # The questions will be provided and the amount of questions are 10,000 at most. 
 # The answer list should contain student's number who got the highest score.
 # If there are two and more students who have the highest score, the answer list sould contains all of the student's number in order.
