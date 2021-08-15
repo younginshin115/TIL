@@ -1,14 +1,36 @@
-# algorithm_tests
-<p>It's a history that I've studied for algorithm tests.</br>
-All of the questions are from PROGRAMMERS(https://programmers.co.kr/).</p>
-<b>The languages I used are:</b><ul>
-<li>Python3,</li>
-<li>Java</li>
-</ul>
-</br>
-<p>알고리즘 테스트 공부 기록입니다.</br>
-모든 문제는 프로그래머스(https://programmers.co.kr/)의 문제입니다.</p>
-<b>사용 언어</b><ul>
-<li>Python3,</li>
-<li>Java</li>
-</ul>
+# Today I Learned
+신입 개발자 신영인의 Today I Learned repository 입니다. 매일매일 공부한 내용이 올라옵니다.
+
+## 사용 언어
+- main: Python, Java
+- Sub : C, Scala
+
+## 사용 툴
+- 파이프라인
+```
+Kafka, Spark, Elasticsearch, Logstash, Filebeat, Flink, Burrow, Telegraf, Graphite
+```
+- 웹
+```
+Flask
+Spring, Maven, Gradle
+HTML, CSS, JavaScript
+Nginx, Tomcat, uWSGI
+Ajax, Axios, Highchart 등
+```
+- DB
+```
+MySQL(MariaDB), InfluxDB, MongoDB
+```
+- 시각화
+```
+Kibana, Grafana, PowerBI
+```
+- 개발환경
+```
+Docker, Docker-compose
+```
+- 협업툴
+```
+Git, Notion, Slack, Teams
+```
